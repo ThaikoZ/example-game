@@ -518,7 +518,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Witaj kur\u0142a. \n\nWszystko smiga"
+  m_Text: "Witaj kur\u0142a. \n\nWszystko dwa"
 --- !u!222 &1940454363
 CanvasRenderer:
   m_ObjectHideFlags: 0
